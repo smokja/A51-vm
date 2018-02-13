@@ -8,4 +8,4 @@ MUL
 LOAD  
 HALT  
 
-The whole implementation is in A51vm.lua, because I still do not know how to import other lua files into my own lua file.
+The whole implementation is in the file A51vm.lua, because I still do not know how to import other lua files into my own lua file.
